@@ -1,12 +1,12 @@
-''' This document contains my code for PHYS 479 assignment 2 which is devided into 
-two parts. The first part (Question 1) involves simulating a classical harmonic 
-oscillator  using a Leapfrog technique. The second part (Question 2) uses the same 
-technique and an RK4 to simulate 3 body planetary motion. The results from the 
-Leapfrog and RK4 are compared with results from odeint (a Python ODE solver). The 
-results for both are shown using a simple animation. The planetary motion is done 
-several times using different initial conditions. This code was coded using the 
-Spyder IDE from anaonconda and Python 3.7. It can be ran all at once
-using any Python IDE or by cell in Spyder. 
+''' This document contains my code for the PHYS 479 Leapfrog techniques, Classical
+Harmonic Oscillators and 3-body simulations assignment which is divided into two parts. 
+The first part (Question 1) involves simulating a classical harmonic oscillator using 
+a Leapfrog technique. The second part (Question 2) uses the same technique and an RK4 
+to simulate 3 body planetary motion. The results from the Leapfrog and RK4 are compared 
+with results from odeint (a Python ODE solver). The results for both are shown using 
+simple animation. The planetary motion is done several times using different initial 
+conditions. This code was coded using the Spyder IDE from anaconda and Python 3.7. It 
+can run all at once using any Python IDE or by the cell in Spyder.
 
    Author: Tristan Fleming
    Date: 2021-02-11
