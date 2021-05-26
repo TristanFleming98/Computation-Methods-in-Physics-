@@ -49,7 +49,6 @@ def arrayInitializer(npts):
     return y1, y
     
 
-
 # Parameters: 
 Omega = 2 * np.pi 
 dt = 0.001 # Time step
