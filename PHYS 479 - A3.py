@@ -1,12 +1,12 @@
-""" This document contains my code for PHYS 479 assignment 3 which is devided into 
-two parts. The first part (Question 1) involves solving the Time-Dependent Schodinger
-Equation to simulate a quantim harmonic oscillator  using a Leapfrog technique. 
-The second part (Question 2) uses the same technique to solve the Time-Dependent 
-Schrodinger Equations for a double-wall potential problem. Results are checked by 
-satisfying the Virial Theorem. The results are displayed using a simple animation 
-that takes screenshots are specified time intervals. This code was coded using the 
-Spyder IDE from anaonconda and Python 3.7. It can be ran all at once using any 
-Python IDE or by cell in Spyder
+""" This document contains my code for the PHYS 479 time-dependent schrodinger 
+assignment which is devided into two parts. The first part (Question 1) involves 
+solving the Time-Dependent Schodinger Equation to simulate a quantim harmonic 
+oscillator  using a Leapfrog technique. The second part (Question 2) uses the 
+same technique to solve the Time-Dependent Schrodinger Equations for a double-wall 
+potential problem. Results are checked by satisfying the Virial Theorem. The results 
+are displayed using a simple animation that takes screenshots are specified time 
+intervals. This code was coded using the Spyder IDE from anaonconda and Python 3.7. 
+It can be ran all at once using any Python IDE or by cell in Spyder
 
 
    Author: Tristan Fleming
