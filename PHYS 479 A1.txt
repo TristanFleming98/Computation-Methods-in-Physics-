@@ -1,4 +1,11 @@
-'''This document contains my code for PHYS 479 assignment 1.
+''' This document contains my code for PHYS 479 density matrix theory and optical 
+Bloch equation's assignment. My code is divided into 4 parts, one for each question. 
+In part 1 (Question 1) I solve for laser excitation in the RWA using the Euler and 
+Runge-Kutta methods. In part 2 (Question 2), I solve for a time-dependent pulse in 
+the RWA. In part 3, (Question 3) I add laser detuning. In part 4 (Question 4), I 
+compute the population densities for a variety of initial conditions. This code can 
+be ran using the Spyder IDE from anaconda and Python 3.7. The code needs to run one 
+cell at a time in Spyder. 
 
    Author: Tristan Fleming
    Date: 2021-01-18
